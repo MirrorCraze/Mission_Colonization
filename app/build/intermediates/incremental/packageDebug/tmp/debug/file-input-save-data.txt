@@ -1,0 +1,11 @@
+#Internal package file, do not edit.
+#Sun Oct 20 09:37:15 CST 2019
+1.base=D\:\\CityU notes and Files\\Competition\\NASA SpaceApps Challenge\\SpaceInvaders\\MyLittlePlanet\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.baseType=DIRECTORY
+1.baseType=DIRECTORY
+count=2
+1.set=DEX
+0.path=Resources.json
+0.set=ASSET
+0.base=D\:\\CityU notes and Files\\Competition\\NASA SpaceApps Challenge\\SpaceInvaders\\MyLittlePlanet\\app\\build\\intermediates\\merged_assets\\debug\\out
+1.path=classes.dex

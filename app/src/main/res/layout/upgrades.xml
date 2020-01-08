@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00F7FF"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:text="Upgrade health : -1 Titanium for armor" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:text="Upgrade attack : -1 Magnesium, -1 Copper for harden bullets" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:text="Upgrade speed : -1 Nitrogen for fuel" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:paddingLeft="25dp"
+        android:paddingRight="25dp"
+        android:text="Increase drop rate : -1 Titanium, -1 Iron, -1 Chromium. Increase rare material drop chance." />
+
+    <TextView
+        android:id="@+id/invent"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:text="Inventory : 1 Nitrogen, 2 Copper, 1 Titanium"
+        android:textAppearance="@style/TextAppearance.AppCompat.Display1" />
+</LinearLayout>

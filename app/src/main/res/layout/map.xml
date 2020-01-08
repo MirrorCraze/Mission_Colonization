@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/holo_green_light">
+
+    <Button
+        android:id="@+id/Mars"
+        android:layout_width="fill_parent"
+        android:layout_height="277dp"
+        android:onClick="marsScreen"
+        android:text="Mars : Get Magnesium, Aluminium, Titanium, Iron, and Chromium from here." />
+
+    <Button
+        android:id="@+id/Venus"
+        android:layout_width="match_parent"
+        android:layout_height="277dp"
+        android:onClick="venusScreen"
+        android:text="Venus : Get nitrogen and carbon dioxide" />
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+    </TableLayout>
+
+</LinearLayout>

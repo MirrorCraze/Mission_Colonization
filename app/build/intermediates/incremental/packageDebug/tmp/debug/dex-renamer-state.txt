@@ -1,0 +1,4 @@
+#Sun Oct 20 09:37:15 CST 2019
+base.0=D\:\\CityU notes and Files\\Competition\\NASA SpaceApps Challenge\\SpaceInvaders\\MyLittlePlanet\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex

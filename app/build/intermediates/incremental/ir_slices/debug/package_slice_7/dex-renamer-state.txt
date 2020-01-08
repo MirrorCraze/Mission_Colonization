@@ -1,0 +1,4 @@
+#Sun Oct 20 07:18:35 HKT 2019
+base.0=/Users/240419/AndroidStudioProjects/SpaceInvaders/app/build/intermediates/transforms/dexMerger/debug/7
+path.0=classes.dex
+renamed.0=classes.dex

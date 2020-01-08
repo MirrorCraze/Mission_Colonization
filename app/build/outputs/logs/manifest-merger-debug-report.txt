@@ -1,0 +1,183 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:2:1-26:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\4acc2d676ab5c49e308626da2e1e29fb\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\374392c51bb037e5de3dc0aa51d35353\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\d537cc04a27dcd5c80a944f5380df951\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\a9b87297a9438a2a1845cfc73192a673\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\e6fd59a44c25aa6d56a4fd5bb3555bca\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\e86aaedd97a968bd888fd658e1880fb0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\c10f74f647eb986cc2b641914889440f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\5e55fd0464c77c441045459782bc7028\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\6f58f1e245aacbd9118a97217f2ce9e8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\7f3382dbb77c1bcb1a35ad2a5502ffbd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\f9f5f9eae1f6da95421164e4792da613\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\0dc904e57149d5f7fc810e20d14ceb08\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\388da24d4809858d5fd397e8ef9b3a2e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\5d9db2cd73cc1ac7dabf1d9852a3eb6f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\20478a33dea9cbedb157c3a8e8e86dcb\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\cc186b7ccd078e0df19031892bdd6960\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\5648693aa4a644d49e1e2851ca9b9309\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\403fd8c79d762c98fa8d92d5c21caaca\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\8321b8b1d8eba0239831ee083a42ddda\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\55fa2b38d5c45735adee134eac065a0b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\824b5c17e231546883ab839ff282ee01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\84f505ff8d7b9d7d450e81d2b8d4a59e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\0e3fb9b6a93dd69a33de0fcdab5f697f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\332370f437b4afb9952f2e4ce2c36b56\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\d81346ed5beb02565b50e621f69e5a3e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\c0340ade87ddea31a31a8d92f7f01e96\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\65a8285f5dafb289a2e4b4a12d07b069\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\86fd9313d4a0bb813f6991bc3ebf602d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\ba6b52b63b38482131319154bbf767ea\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\91f723d0d4e7dadf022524ff58041e92\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\5da828cb77a30aaf5efc2640dc95d3d8\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\5cf23cb0b5fb797c40e5b1f59b3b051c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\b69b946150cccad0a49cac399e3213f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\e5c397143b37cc75876abde1003e3212\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:2:1-26:12
+INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:3:5-40
+		INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:2:1-26:12
+		INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:5:5-24:19
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\4acc2d676ab5c49e308626da2e1e29fb\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\4acc2d676ab5c49e308626da2e1e29fb\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\d537cc04a27dcd5c80a944f5380df951\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\d537cc04a27dcd5c80a944f5380df951\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\824b5c17e231546883ab839ff282ee01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\824b5c17e231546883ab839ff282ee01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\332370f437b4afb9952f2e4ce2c36b56\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\332370f437b4afb9952f2e4ce2c36b56\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\824b5c17e231546883ab839ff282ee01\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:11:9-52
+activity#com.example.spaceinvaders.MainScreen
+ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:12:9-14:66
+	android:label
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:13:13-39
+activity#com.example.spaceinvaders.MainActivity
+ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:15:9-22:20
+	android:name
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:16:13-21:29
+action#android.intent.action.MAIN
+ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
+INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\4acc2d676ab5c49e308626da2e1e29fb\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\4acc2d676ab5c49e308626da2e1e29fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\374392c51bb037e5de3dc0aa51d35353\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\374392c51bb037e5de3dc0aa51d35353\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\d537cc04a27dcd5c80a944f5380df951\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\d537cc04a27dcd5c80a944f5380df951\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\a9b87297a9438a2a1845cfc73192a673\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\a9b87297a9438a2a1845cfc73192a673\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\e6fd59a44c25aa6d56a4fd5bb3555bca\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\e6fd59a44c25aa6d56a4fd5bb3555bca\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\e86aaedd97a968bd888fd658e1880fb0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\e86aaedd97a968bd888fd658e1880fb0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\c10f74f647eb986cc2b641914889440f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\c10f74f647eb986cc2b641914889440f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\5e55fd0464c77c441045459782bc7028\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\5e55fd0464c77c441045459782bc7028\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\6f58f1e245aacbd9118a97217f2ce9e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\6f58f1e245aacbd9118a97217f2ce9e8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\7f3382dbb77c1bcb1a35ad2a5502ffbd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\7f3382dbb77c1bcb1a35ad2a5502ffbd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\f9f5f9eae1f6da95421164e4792da613\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\f9f5f9eae1f6da95421164e4792da613\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\0dc904e57149d5f7fc810e20d14ceb08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\0dc904e57149d5f7fc810e20d14ceb08\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\388da24d4809858d5fd397e8ef9b3a2e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\388da24d4809858d5fd397e8ef9b3a2e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\5d9db2cd73cc1ac7dabf1d9852a3eb6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\5d9db2cd73cc1ac7dabf1d9852a3eb6f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\20478a33dea9cbedb157c3a8e8e86dcb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\20478a33dea9cbedb157c3a8e8e86dcb\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\cc186b7ccd078e0df19031892bdd6960\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\cc186b7ccd078e0df19031892bdd6960\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\5648693aa4a644d49e1e2851ca9b9309\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\5648693aa4a644d49e1e2851ca9b9309\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\403fd8c79d762c98fa8d92d5c21caaca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\403fd8c79d762c98fa8d92d5c21caaca\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\8321b8b1d8eba0239831ee083a42ddda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\8321b8b1d8eba0239831ee083a42ddda\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\55fa2b38d5c45735adee134eac065a0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\55fa2b38d5c45735adee134eac065a0b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\824b5c17e231546883ab839ff282ee01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\824b5c17e231546883ab839ff282ee01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\84f505ff8d7b9d7d450e81d2b8d4a59e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\84f505ff8d7b9d7d450e81d2b8d4a59e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\0e3fb9b6a93dd69a33de0fcdab5f697f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\0e3fb9b6a93dd69a33de0fcdab5f697f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\332370f437b4afb9952f2e4ce2c36b56\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\332370f437b4afb9952f2e4ce2c36b56\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\d81346ed5beb02565b50e621f69e5a3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\d81346ed5beb02565b50e621f69e5a3e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\c0340ade87ddea31a31a8d92f7f01e96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\c0340ade87ddea31a31a8d92f7f01e96\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\65a8285f5dafb289a2e4b4a12d07b069\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\65a8285f5dafb289a2e4b4a12d07b069\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\86fd9313d4a0bb813f6991bc3ebf602d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\86fd9313d4a0bb813f6991bc3ebf602d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\ba6b52b63b38482131319154bbf767ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\ba6b52b63b38482131319154bbf767ea\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\91f723d0d4e7dadf022524ff58041e92\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\91f723d0d4e7dadf022524ff58041e92\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\5da828cb77a30aaf5efc2640dc95d3d8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\5da828cb77a30aaf5efc2640dc95d3d8\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\5cf23cb0b5fb797c40e5b1f59b3b051c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\5cf23cb0b5fb797c40e5b1f59b3b051c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\b69b946150cccad0a49cac399e3213f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\b69b946150cccad0a49cac399e3213f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\e5c397143b37cc75876abde1003e3212\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\craze\.gradle\caches\transforms-2\files-2.1\e5c397143b37cc75876abde1003e3212\AndroidManifest.xml:20:5-44
+INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
+INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
+		ADDED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
+		INJECTED from D:\CityU notes and Files\Competition\NASA SpaceApps Challenge\SpaceInvaders\MyLittlePlanet\app\src\main\AndroidManifest.xml
